@@ -14,6 +14,8 @@
 
 **Objectives**: Ensuring access to education and integrating human rights into educational content.
 
+**United Nations Declaration**: 11. United Nations Declaration on Human Rights Education and Training (2011)
+
 ### The Global Framework
 Article 29 of the Convention on the Rights of the Child (CRC) calls for education of human rights
 
@@ -137,6 +139,84 @@ Discussions on human rights topics can often be emotionally taxing for both faci
 - **Cultivate a Supportive Community**: Having a network to share experiences, seek advice, and provide emotional support can be invaluable in maintaining mental well-being. You can empower learners to research and connect with relevant human rights groups so that they can maintain motivation long after your intervention. Or you could support them to create their own human rights community. Community groups often have different, sometimes overlapping, purposes.
 
 ## Developing Your Own HRE activity
+
+### Designing Inclusive HRE Activites
+As human rights educators, we want to ensure that we are creating activities and spaces that are inclusive and accessible for everyone. Accessibility is key to the success of HRE, ensuring that every learner, regardless of background or ability, can fully engage and benefit from these educational initiatives. 
+
+- Accessibility
+    - Providing an accessible learning experience requires preparation. It is important to ask in advance for individual/group access and learning needs. Ensure that learning materials are accessible to individuals with disabilities by providing alternative formats, such as audio descriptions, transcripts or screen reader compatibility. Use readable fonts, sufficient color contrast and clear formatting to enhance readability. It is important to plan this in collaboration with the learner, rather than making assumptions about their needs. 
+- Language and Cultural Sensitivity
+    - Use inclusive language and culturally relevant examples to make learning materials accessible to learners from diverse linguistic and cultural backgrounds. Consider including different ways of communication to reach a wider audience such as oral, written, audiovisual, braille or Indigenous languages. Additionally, acknowledge the importance of language diversity by respecting gender pronouns and identities. Ensure that your materials are inclusive of all genders and recognize the significance of using inclusive language in fostering a welcoming and respectful learning environment.
+- Content Warnings
+    - Selecting the content you share with learners will be informed by your understanding of their individual and group needs. Before including information on human rights abuses and other potentially upsetting content, critically reflect on whether it is necessary to meet the educational aims. Ask yourself:
+        - Am I seeking to cause shock and offence? Why?
+        - Am I using images and symbols that could trigger fear or traumatic memories, instead of those that inspire hope and empower people?
+        - Am I using images that may re-victimize particpants or strengthen stereotypes and stigma? 
+    Consider what the images or symbols may mean to the victims of human rights violations, or what messages they trigger in the minds of our audience.
+- Universal Design for Learning
+    - Incorporate principles of Universal Design for Learning(opens in a new tab) to accommodate diverse learning styles, preferences and abilities. Design activities that can be easily adapted to accommodate individual learning needs and preferences by providing options for learners to choose their preferred mode of participation or interaction. Mix up how you present lessons by using videos, written stories or hands-on activities to make sure everyone gets a fair shot at learning in ways that work best for them. In other words, provide multiple means of representation, engagement, assessment and expression to support all learners.
+- Health, Safety and Security
+    - Creating safe and healthy spaces involves not only assessing the risks associated with the physical environment and planned activities but also considering security concerns. It's essential to anticipate external risks that could arise during educational activities, especially in environments with stringent human rights restrictions. By taking proactive measures to address both health and safety as well as security risks, educators can significantly contribute to the well-being and protection of participants in various settings. 
+
+### What is a learning outcome?
+Learning outcomes map out your learning journey and should be used as a guide for the rest of your planning process. 
+
+Well-formulated learning outcomes provide insights into the methodologies and resources you could use to structure activities that lead participants to achieve these goals. 
+
+Learning outcomes are measurable, actionable statements that clearly express what learners will have knowledge of and be able to accomplish after a certain period of learning. 
+
+With a participatory approach, participants should also be part of mapping this learning journey.
+
+Fundamentally, **learning outcomes are about action**. They describe those things that the learner should be able to do following the knowledge and understanding gained in the session.
+
+To create a well-defined learning outcome, you want to use measurable verbs to create action-oriented learning outcomes that aid learners to follow a pathway of critical thinking. To achieve measurable learning outcomes, you'll want to avoid using verbs and phrases that are vague such as: know, understand, be familiar with, believe, learn the basics of, be aware of, etc. 
+
+You will also want to diversify learning outcomes. This means integrating a mix of outcomes so learning isn’t just about understanding new concepts, but also about applying and analysing concepts, evaluating different scenarios and arguments, and creating new ideas or approaches related to human rights issues. In HRE, you'll also want to ensure your learning outcomes encompass developing knowledge, skills and behaviours. 
+
+Let’s take a look at the following learning outcome as an example:
+
+    • You will learn the difference between teacher-centred and learner-centred methodologies. 
+
+To make it more defined we might instead say:
+
+    • You will be able to differentiate between teacher-centred and learner-centred methodologies. 
+
+The difference between each example is subtle but important. The act of learning occurs once while participating in the activity. The act of differentiating can happen long after the course is complete, as a result of learning. 
+
+### How Do you know if your learning outcome was achieved? Assessment!
+Assessment is a key component of the learning process. It allows both educators and learners to self-reflect, make connections and understand where they are in the learning process, how they arrived there and what questions they still have. 
+
+Assessing learning provides information that can show you whether you achieved what you set out to achieve.
+
+For educators, assessment should be seen as a way to improve their own teaching and address the gaps in the learning process.
+
+Examples of Assessment:
+- Individual Reflection
+    - Asking learners to reflect on their learning by posing critical thinking questions. This could be done as a journaling activity throughout the session or at the end.
+- Group Reflection
+    - Asking participants to share their reflections together as a group. You could prompt participants to share one thing they liked, and one thing they didn’t like, in order to encourage more honest sharing.
+- Temperature Check
+    - Take a temperature check on how comfortable the participants were with the lesson/activity by asking them to raise their hands after a prompt. Take note of how enthusiastically participants respond and adjust your lesson accordingly.
+- Survey
+    - Create a brief feedback survey to share at the end of the session or to send afterwards electronically. The questions could relate to the learning outcomes, areas of improvement or overall comfort level.
+- Self-Assessment
+    - Have learners assess their own understanding by posing the same question at the beginning of a session and at the end and ask them to reflect on how their answer may have changed.
+
+--- 
+
+Assessing Throughout: 
+
+- **At the beginning**: An assessment at the beginning of a session could help gauge what previous knowledge learners hold on the topic and help you assess how deep you can take the learning that day. 
+- **In-between**: Check-ins throughout an activity can be helpful to ensure participants are engaged and following along. You can adjust your practice based on this feedback to better meet the needs of your group. Conducting assessments both before and after an activity can also show you the effectiveness of your approach by comparing learners' initial understanding with their post-activity knowledge.
+- **At the end**: Assessing learning at the end of a session can be a great chance to see whether learners have achieved the planned learning objectives.
+
+---
+
+### Designing your own HRE activity
+1. Choose your topic: Choosing an HRE topic involves considering the interests and needs of your audience, as well as current events and issues relevant to your community or region. It's important to select a topic that aligns with your learning objectives and has real-world significance. Additionally, consider the complexity and depth of the topic, ensuring it's suitable for the time and resources available for your educational activity.
+2. Identify your audience: Identifying your audience involves recognizing the diverse demographics and backgrounds of potential learners. Consider factors such as age, cultural heritage, educational attainment and existing knowledge of human rights issues. Reflect on the motivations and interests of your audience, as well as any misconceptions or assumptions they may hold about human rights.Once you've identified your audience, tailor your approach to meet their specific needs and preferences. Adapt your content, teaching methods and examples to resonate with the characteristics and learning styles of your learners. Consider incorporating relevant historical or cultural references, utilizing teaching methods that align with preferred learning styles, and ensuring inclusive language and accessible learning environments. By understanding your audience and customizing your approach accordingly, you can create a more engaging and effective HRE experience that resonates with your learners and fosters a comfortable and open learning environment.
+3. Identify your setting: Where will your activity take place? Will the session be conducted online or in-person? In a formal, or informal environment? What types of resources will you have access to? Consider how the setting may influence the dynamics of the group and adapt your approach accordingly.
+4. Design a participatory activity: When designing a participatory activity for HRE, prioritize active engagement and interaction among participants. Start by defining clear learning objectives and aligning the activity with your educational goals. Incorporate elements such as group discussions, role-playing and problem-solving tasks to encourage collaboration and critical thinking. Provide opportunities for reflection and feedback to enhance learning outcomes and ensure the activity is inclusive and accessible to all participants, regardless of their background or abilities.
 
 
 
