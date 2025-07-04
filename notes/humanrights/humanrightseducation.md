@@ -39,17 +39,17 @@ HRE thrives in diverse settings, be it formal classrooms or informal gatherings.
     - Planned programmes and processes of personal and social education for people designed to improve a range of skills and competences, outside the formal educational curriculum.
 
 ### Key components of human rights education
-- Advocacy: Trying to change a law or policy to be more human rights friendly 
-- Protesting: Organizing, attending or supporting a protest
-- Self-Improvement: Reflecting on your own actions and attitudes to align them more with human rights values
-- Signing a petition: For a human rights cause or campaign you care about
-- Doing research: Learning about critical human rights issues around the world
-- Speaking about human rights: Promoting human rights values with those around you whether through a conversation with a friend or a post on social media
+- **Advocacy**: Trying to change a law or policy to be more human rights friendly 
+- **Protesting**: Organizing, attending or supporting a protest
+- **Self-Improvement**: Reflecting on your own actions and attitudes to align them more with human rights values
+- **Signing a petition**: For a human rights cause or campaign you care about
+- **Doing research**: Learning about critical human rights issues around the world
+- **Speaking about human rights**: Promoting human rights values with those around you whether through a conversation with a friend or a post on social media
 
 Three essential requirements:
-1. *About* Human Rights: HRE involves educating others about human rights, what mechanisms are used to protect them, and how they relate to our lives.
-2. *For* Human Rights: HRE involves promoting attitudes, values and behaviours that support and uphold human rights. It emphasizes fostering empathy, respect, tolerance and a commitment to social justice. HRE programmes aim to cultivate a culture of human rights within individuals and communities, encouraging them to actively promote and defend human rights in their daily lives.
-3. *Through* Human Rights: HRE emphasizes the use of human rights principles and methodologies in the process of education itself. It involves applying human rights values and approaches to teaching and learning practices, making education itself a human rights experience. HRE uses participatory and inclusive teaching methods that empower learners and promote critical thinking, dialogue and active engagement with human rights issues.
+1. **About** Human Rights: HRE involves educating others about human rights, what mechanisms are used to protect them, and how they relate to our lives.
+2. **For** Human Rights: HRE involves promoting attitudes, values and behaviours that support and uphold human rights. It emphasizes fostering empathy, respect, tolerance and a commitment to social justice. HRE programmes aim to cultivate a culture of human rights within individuals and communities, encouraging them to actively promote and defend human rights in their daily lives.
+3. **Through** Human Rights: HRE emphasizes the use of human rights principles and methodologies in the process of education itself. It involves applying human rights values and approaches to teaching and learning practices, making education itself a human rights experience. HRE uses participatory and inclusive teaching methods that empower learners and promote critical thinking, dialogue and active engagement with human rights issues.
 
 ### Traditional vs Participatory Facilitation
 In HRE, we aim to use **participatory methodologies as much as possible**. Through learning by doing, learners have the opportunity not only to know about their rights, but also to exercise them.
@@ -108,33 +108,33 @@ Remember that you will want to strike a balance between being able to discuss di
 **Ways to Deliver Learning**
 
 There are many different methodologies, modalities, and pedagogical models through which you can employ action-oriented approaches that can be incorporated into formal, non-formal and informal educational spaces.
-- Experiential Learning: “Learning by doing” - Engaging learners in hands-on, real-life activities that deepen their understanding of human rights concepts and how to apply them in real-life situations.
-- Workshop: A facilitated and structured session of discussion and activity with a particular education aim or focus.
-- Learning through Play: Supports participants, child and adult alike, to make sense of the world around them through play activities.
-- E-learning: Learning through different online formats such as self-paced courses, webinars and facilitated workshops and meetings.
-- Blended Learning: A style of education in which students learn via electronic and online media as well as face-to-face teaching.
-- Training of Trainers: Equips people to deliver human rights education within their own communities and/or professions.
-- Bitesize Learning: Education content broken into small, highly focused chunks that are manageable for learners to complete.
-- Audio Visual Aids: The use of audio and video media to share educational content, often used in addition to facilitated learning and group discussion.
-- Collaborative Learning: An approach that promotes democratic and collective learning, where everyone can contribute and learn together, decentralizing power and generating consensus. 
+- **Experiential Learning**: “Learning by doing” - Engaging learners in hands-on, real-life activities that deepen their understanding of human rights concepts and how to apply them in real-life situations.
+- **Workshop**: A facilitated and structured session of discussion and activity with a particular education aim or focus.
+- **Learning through Play**: Supports participants, child and adult alike, to make sense of the world around them through play activities.
+- **E-learning**: Learning through different online formats such as self-paced courses, webinars and facilitated workshops and meetings.
+- **Blended Learning**: A style of education in which students learn via electronic and online media as well as face-to-face teaching.
+- **Training of Trainers**: Equips people to deliver human rights education within their own communities and/or professions.
+- **Bitesize Learning**: Education content broken into small, highly focused chunks that are manageable for learners to complete.
+- **Audio Visual Aids**: The use of audio and video media to share educational content, often used in addition to facilitated learning and group discussion.
+- **Collaborative Learning**: An approach that promotes democratic and collective learning, where everyone can contribute and learn together, decentralizing power and generating consensus. 
 
-**Participatory Tool**s** 
+**Participatory Tools** 
 
 In order to prepare a learner-centred lesson, you need to facilitate activities that engage learners and enable them to participate in their learning journey. There are many different tools that can be used as the building blocks for learner-centred participatory education. Below are some examples:
-- Group Work: A small number of learners working together to share ideas, experiences or do activities.
-- Case Studies: An in-depth example of one person, group or event that learners can relate to/understand.
-- Role Play Activity: Learners explore and express situations and responses through acting.
-- Community Mapping Activity: Supports learners to contextualize a topic and its impact on people and communities.
-- Participatory Theatre: A live performance where learners interact with performers or presenters.
-- Co-operative Games: An activity where learners work together to solve a problem or succeed as a team.
+- **Group Work**: A small number of learners working together to share ideas, experiences or do activities.
+- **Case Studies**: An in-depth example of one person, group or event that learners can relate to/understand.
+- **Role Play Activity**: Learners explore and express situations and responses through acting.
+- **Community Mapping Activity**: Supports learners to contextualize a topic and its impact on people and communities.
+- **Participatory Theatre**: A live performance where learners interact with performers or presenters.
+- **Co-operative Games**: An activity where learners work together to solve a problem or succeed as a team.
 
 ### Overcoming Challenges and Caring for your Well-Being
 Discussions on human rights topics can often be emotionally taxing for both facilitators and learners.
 
-- Team Up!: When you facilitate activities, there are many processes happening simultaneously. You have prepared your activity that you want to guide people through, but group dynamics and conversations might take you in a different direction and require adjustment of what you had prepared. You want to follow your programme, but listen with attention too. At the same time, you are keeping time and organizing other logistical issues, such as dividing people in teams for group work, handing out workshop materials, or addressing technical issues for your presentation. This is why it can be beneficial to facilitate with at least two people, so you can divide the workload and help each other out. 
-- Set Realistic Boundaries: Recognize that your work can be emotionally demanding. Set clear and realistic boundaries for your time and emotional energy. Understand that you may not be able to solve every problem or address every issue, and that's okay.
-- Practice Self-Compassion: Be kind to yourself. Understand that human rights work often involves confronting challenging and emotionally charged issues. Acknowledge your efforts, celebrate your successes, and be compassionate with yourself during difficult moments. You do not have to be perfect and you are not expected to have all the answers. Acknowledge when you might not know something, and ask other participants what they think or propose.
-- Cultivate a Supportive Community: Having a network to share experiences, seek advice, and provide emotional support can be invaluable in maintaining mental well-being. You can empower learners to research and connect with relevant human rights groups so that they can maintain motivation long after your intervention. Or you could support them to create their own human rights community. Community groups often have different, sometimes overlapping, purposes.
+- **Team Up!**: When you facilitate activities, there are many processes happening simultaneously. You have prepared your activity that you want to guide people through, but group dynamics and conversations might take you in a different direction and require adjustment of what you had prepared. You want to follow your programme, but listen with attention too. At the same time, you are keeping time and organizing other logistical issues, such as dividing people in teams for group work, handing out workshop materials, or addressing technical issues for your presentation. This is why it can be beneficial to facilitate with at least two people, so you can divide the workload and help each other out. 
+- **Set Realistic Boundaries**: Recognize that your work can be emotionally demanding. Set clear and realistic boundaries for your time and emotional energy. Understand that you may not be able to solve every problem or address every issue, and that's okay.
+- **Practice Self-Compassion**: Be kind to yourself. Understand that human rights work often involves confronting challenging and emotionally charged issues. Acknowledge your efforts, celebrate your successes, and be compassionate with yourself during difficult moments. You do not have to be perfect and you are not expected to have all the answers. Acknowledge when you might not know something, and ask other participants what they think or propose.
+- **Cultivate a Supportive Community**: Having a network to share experiences, seek advice, and provide emotional support can be invaluable in maintaining mental well-being. You can empower learners to research and connect with relevant human rights groups so that they can maintain motivation long after your intervention. Or you could support them to create their own human rights community. Community groups often have different, sometimes overlapping, purposes.
 
 ## Developing Your Own HRE activity
 
